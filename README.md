@@ -9,4 +9,4 @@ The R script in the repo does the following things
 5. Using descriptive activity names to name the activities in the data set;
 6. Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The end output is 
+The end output is Second Tidy Dataset.txt
